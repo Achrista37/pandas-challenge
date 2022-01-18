@@ -1,2 +1,4 @@
-# pandas-challenge
-week 4 homework repo on pandas
+This report is to satisfy the homework requirement of the UWA Data Analytics, focusing on Pandas. The option that was chosen was the “Heroes of Pymoli”. Link to the csv file and homework instruction is the following : https://waustralia.bootcampcontent.com/the-university-of-western-australia/waus-virt-data-pt-12-2021-u-c/-/tree/master/04-Pandas/3-Homework. Python Pandas was used to analyze the data, with Jupyter Notebook to run the program.  
+	There are a few things that can be noted from analyzing the purchase_data.csv – It is apparent that the players of Heroes of Pymoli are dominated by Males (84%), followed by Females (14%), and Other/Non-Disclosed (2%)
+	Although the players of this game are mostly Males, the Average Total Purchase per Person seems to be highest among Other/Non-Disclosed Gender ($4.56), followed by Females ($4.47) and lastly Males ($4.07)
+	Age Group of players of this game was also looked at. The highest player number belongs to the 20-24 age group (44.79%), with the second highest player number in 15-19 age group (18.58%)
